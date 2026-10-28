@@ -1,0 +1,58 @@
+type: edu
+files:
+  - name: src/engine/WebQuizEngine.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/engine/domain/Quiz.java
+    visible: true
+    learner_created: false
+  - name: src/engine/domain/CreateQuizDTO.java
+    visible: true
+    learner_created: false
+  - name: src/engine/domain/QuizAnswerResponseDTO.java
+    visible: true
+    learner_created: false
+  - name: src/engine/controllers/QuizzesController.java
+    visible: true
+    learner_created: false
+  - name: src/engine/controllers/QuizController.java
+    visible: true
+    learner_created: false
+  - name: src/engine/domain/AnswerRequestDTO.java
+    visible: true
+    learner_created: false
+  - name: src/engine/repositories/QuizRepository.java
+    visible: true
+    learner_created: false
+  - name: test/tests/WebQuizEngineTest.java
+    learner_created: false
+  - name: src/engine/controllers/AuthController.java
+    visible: true
+    learner_created: true
+  - name: src/engine/repositories/AuthRepository.java
+    visible: true
+    learner_created: true
+  - name: src/engine/domain/AppUser.java
+    visible: true
+    learner_created: true
+  - name: src/engine/services/AppUserDetailsServiceImpl.java
+    visible: true
+    learner_created: true
+  - name: src/engine/SecurityConfig.java
+    visible: true
+    learner_created: true
+  - name: src/engine/domain/AppUserAdapter.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/91/stages/508/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 28 Oct 2026 09:28:45 UTC"
+record: -1
